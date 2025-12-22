@@ -1,1 +1,1 @@
-# CÔNG NGHỆ MỚI TRONG PHÁT TRIỂN ỨNG DỤNG CNTT
+# New Technology in the Application Development
